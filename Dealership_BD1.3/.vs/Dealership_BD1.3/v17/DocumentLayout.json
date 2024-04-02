@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\dealership_bd1.3\\orderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\orderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\dealership_bd1.3\\vehiclespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\vehiclespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\dealership_bd1.3\\customerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\customerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\dealership_bd1.3\\modelspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\modelspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\dealership_bd1.3\\brandspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\brandspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\dealership_bd1.3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\dealership_bd1.3\\orderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\orderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\dealership_bd1.3\\modelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\modelspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\dealership_bd1.3\\brandspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\brandspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\dealership_bd1.3\\vehiclespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\vehiclespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\dealership_bd1.3\\customerspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\customerspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|c:\\users\\yaney\\source\\repos\\dealership_bd1.3\\dealership_bd1.3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\dealership_bd1.3\\dealershipdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{3667C617-086A-40E8-9F42-EEA3B6340C77}|Dealership_BD1.3\\Dealership_BD1.3.csproj|solutionrelative:dealership_bd1.3\\dealershipdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\MainWindow.xaml",
+              "RelativeToolTip": "Dealership_BD1.3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T13:28:35.597Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Dealership_BD1.3\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAMwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:28:33.771Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\CustomersPage.xaml",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\CustomersPage.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\CustomersPage.xaml",
+              "RelativeToolTip": "Dealership_BD1.3\\CustomersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T14:54:22.884Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\CustomersPage.xaml.cs",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\CustomersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\CustomersPage.xaml.cs",
+              "RelativeToolTip": "Dealership_BD1.3\\CustomersPage.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:54:25.836Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehiclesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\VehiclesPage.xaml",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\VehiclesPage.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\VehiclesPage.xaml",
+              "RelativeToolTip": "Dealership_BD1.3\\VehiclesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T14:54:30.957Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiclesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\VehiclesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\VehiclesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\VehiclesPage.xaml.cs",
+              "RelativeToolTip": "Dealership_BD1.3\\VehiclesPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:54:34.156Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrandsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\BrandsPage.xaml",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\BrandsPage.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\BrandsPage.xaml",
+              "RelativeToolTip": "Dealership_BD1.3\\BrandsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T14:54:39.157Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\BrandsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\BrandsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\BrandsPage.xaml.cs",
+              "RelativeToolTip": "Dealership_BD1.3\\BrandsPage.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:54:41.691Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModelsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\ModelsPage.xaml",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\ModelsPage.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\ModelsPage.xaml",
+              "RelativeToolTip": "Dealership_BD1.3\\ModelsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T14:54:45.805Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\ModelsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\ModelsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\ModelsPage.xaml.cs",
+              "RelativeToolTip": "Dealership_BD1.3\\ModelsPage.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:54:48.387Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\OrdersPage.xaml",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\OrdersPage.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\OrdersPage.xaml",
+              "RelativeToolTip": "Dealership_BD1.3\\OrdersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T14:54:52.205Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\OrdersPage.xaml.cs",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\OrdersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\OrdersPage.xaml.cs",
+              "RelativeToolTip": "Dealership_BD1.3\\OrdersPage.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:54:54.859Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DealershipDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\DealershipDataSet.xsd",
+              "RelativeDocumentMoniker": "Dealership_BD1.3\\DealershipDataSet.xsd",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Dealership_BD1.3\\Dealership_BD1.3\\DealershipDataSet.xsd",
+              "RelativeToolTip": "Dealership_BD1.3\\DealershipDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-04-02T19:35:08.886Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
